@@ -1,0 +1,12 @@
+This directory contains the source code for Sql MDB.
+It also contains the jakarta.jar file, which you should
+remove and place on your classpath.
+
+Compile the source by:
+
+> javac *.java
+
+The grammar for MDB is grammar.b and the javacc version
+of it is in grammar.jj
+
+
